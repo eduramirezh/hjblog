@@ -21,12 +21,12 @@ description: "Sitio oficial de la banda de rock chilena »Hotel Julieta«. Forma
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://hjulieta.com"
-baseurl: ""
+url: "ejramire.github.io"
+baseurl: "/hjblog"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: 
+improve_content: https://github.com/ejramire/hjblog/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
@@ -34,7 +34,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://hjulieta.com/images/"
+urlimg: "http://ejramire.github.io/hjblog/images/"
 
 
 # Logo size is 600x80 pixels
