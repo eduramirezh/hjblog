@@ -1,17 +1,17 @@
 ---
 layout: page-fullwidth
-title: "Wonderful Typography"
-subheadline: "Reading Experience"
+title: "Hotel Julieta"
+subheadline: "Sobre la banda"
 meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
 teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
 header: no
 image:
     thumb:  homepage_typography_thumb.jpg
     homepage: homepage_typography.jpg
-    caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
+    caption: Foto de Pía Moreira
+    caption_url: "http://ink361.com/app/users/ig-464727049/piitamoreira/photos"
 categories:
-    - design
+    - historia
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -29,7 +29,7 @@ categories:
 
 ## Lato – A Sans Serif Typeface Family
 
-[Lato][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google. 
+[Lato][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google.
 
 > <span class="teaser">I do not think of type as something that should be readable. It should be beautiful.</span><cite>[Ed Benguiat][3]</cite>
 
@@ -40,7 +40,7 @@ When working on Lato, Łukasz tried to carefully balance some potentially confli
 The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]
 
 
-## About Volkhov &lt;h2&gt; 
+## About Volkhov &lt;h2&gt;
 
 Volkhov is a low-contrast seriffed typeface with a robust character, intended for providing a motivating reading experience. Volkhov was designed by Ivan Petrov.
 
@@ -68,7 +68,7 @@ Spacing in Bold is slightly increased compared to the normal weight, because the
 
 *Feeling Responsive* explores the *2:3 perfect fifth* modular scale created with [www.modular-scale.com][7]. This is the modular scale of  *Feeling Responsive*.
 
-44px @ 1:1.5 – Ideal text size  
+44px @ 1:1.5 – Ideal text size
 16px @ 1:1.5 – Important number
 
 Modular Scale |    |   |
@@ -150,7 +150,7 @@ Beef ribs jowl swine porchetta
 
 Pancetta flank sirloin pork
 :   short ribs shankle prosciutto landjaeger. Beef ribs turkey shoulder drumstick. Leberkas pork belly ribeye, bresaola jerky strip steak tenderloin bacon landjaeger short ribs beef ribs. Flank pork chop fatback tail kielbasa filet mignon jowl landjaeger bresaola tongue corned beef biltong.
-:   Landjaeger spare ribs fatback corned beef tenderloin drumstick, swine chicken beef turkey biltong doner tri-tip filet mignon. 
+:   Landjaeger spare ribs fatback corned beef tenderloin drumstick, swine chicken beef turkey biltong doner tri-tip filet mignon.
 
 
 ### &lt;a&gt;
@@ -322,13 +322,13 @@ Even tables are responsive thanks to foundation. A table can consist of these el
     </tr>
     <tr>
       <td>&lt;colgroup&gt;</td>
-      <td>specifies a group of one or more columns in a table for 
+      <td>specifies a group of one or more columns in a table for
 formatting. The &lt;colgroup&gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.</td>
       <td>no styling needed</td>
     </tr>
     <tr>
       <td>&lt;col&gt;</td>
-      <td>specifies column properties for each column within a `&lt;colgroup&gt;` 
+      <td>specifies column properties for each column within a `&lt;colgroup&gt;`
 element</td>
       <td>no styling needed</td>
     </tr>
