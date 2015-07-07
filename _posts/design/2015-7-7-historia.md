@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Hotel Julieta"
 subheadline: "Sobre la banda"
 meta_teaser: "La  banda acaba de  lanzar  dos singles (Imágenes y Como  La  Luna  Y El  Sol) mediante  redes sociales, los cuales  han logrado una muy buena acogida y crítica."
-teaser: "La  banda acaba de  lanzar  dos singles (Imágenes y Como  La  Luna  Y El  Sol) mediante  redes sociales, los cuales  han logrado una muy buena acogida y crítica."
+teaser: "La  banda acaba de  lanzar  dos singles (<a href='https://open.spotify.com/track/66OnKtcYr2BaFfk6LtPE2H'>Imágenes</a> y Como  La  Luna  Y El  Sol) mediante  redes sociales, los cuales  han logrado una muy buena acogida y crítica."
 header: no
 image:
     thumb:  homepage_typography_thumb.jpg
