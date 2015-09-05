@@ -1,14 +1,35 @@
 ---
-layout: page
-title: "EPK"
-subheadline: "Why aher Jekyll Theme?"
+layout: pageepk
+title: "Hotel Julieta"
+subheadline: "EPK"
 show_meta: false
-teaser: "Sinces I aprormming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "Hotel Julieta es una banda chilena de rock-pop emergente."
 permalink: "/epk/"
 header:
     image_fullwidth: "teatro.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+La banda se formó a inicios de ...
+
+##Canciones
+
+
+{% for song in site.data.songs %}
+<div class="row">
+  <div class="medium-8 columns t20">
+    <a target="_blank" href="{{site.url}}/{{song.download-url}}" download>{{ song.title }}</a>
+
+  </div>
+    <audio controls>
+      <source src="{{site.url}}/{{song.download-url}}" type="audio/mpeg">
+      Your browser does not support the audio tag.
+    </audio>
+</div>
+{% endfor %}
+
+##Fotos
+
+##Otros videos
+
+##Prensa
 
