@@ -1,16 +1,25 @@
 ---
 layout: pageepk
-title: "Hotel Julieta"
-subheadline: "EPK"
 show_meta: false
-teaser: "Hotel Julieta es una banda chilena de rock-pop."
 permalink: "/epk/"
-logo: "logo_sin_sombra.png"
+logo: "logo_sin_sombras.png"
 header:
-    image_fullwidth: "teatro.jpg"
+    image_fullwidth: "header_unsplash_12.jpg"
 ---
 
-La banda se formó a inicios de ...
+Hotel Julieta es una banda chilena de rock-pop formada a finales de 2014.
+
+Su propuesta musical consiste en crear canciones directas y potentes, utilizando el escenario y su espectáculo como un instrumento más para transmitir emociones con su música.
+
+Su enfoque artístico los ha llevado rápidamente a posicionarse dentro de las bandas más populares de Chile en Spotify. Su fama también se vió impulsada por la aparición de su vocalista en el programa de televisión "The Voice Chile".
+
+El proyecto comienza cuando Matías Schulze (estudiante de música) y Eduardo Ramírez (ingeniero civil), compañeros de colegio en Talca su ciudad natal, se juntan a componer y desarrollar un proyecto musical con una propuesta fuerte.
+
+A fines de 2014 conocen a Tomás Ledoux (guitarrista clásico), con quien surge una química instantánea para potenciar esta propuesta.
+
+Sus distintas disciplinas y visiones artísticas se complementan para dar origen a "Hotel Julieta". Este nombre representa el lugar imaginario donde sus ideas y visiones se comparten y se convierten en su música y su show.
+
+Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería, se convierte en la pieza final del Hotel.
 
 <iframe width="320" height="315" src="https://www.youtube.com/embed/Ko-6N7VrhLg" frameborder="0" allowfullscreen></iframe>
 
@@ -21,6 +30,40 @@ La banda se formó a inicios de ...
  - [Facebook](http://fb.com/HotelJulieta)
  - [Twitter](http://twitter.com/HotelJulietaCL)
  - [Spotify](https://open.spotify.com/artist/4R6ApsFDCgq0nH0K5U9uj8)
+
+##Integrantes
+
+
+<figure class="image"><img src="/images/epk/tomas_epk.png" alt="{{ include.description }}">
+  <figcaption>
+    Tomás Ledoux <a href="http://instagram.com/i_ledoux">(@i_ledoux)</a>
+  </figcaption>
+</figure>
+
+<figure class="image"><img src="https://instagram.com/p/7NwB34B7Hi/media/?size=m" alt="{{ include.description }}">
+  <figcaption>
+    Eduardo Ramírez <a href="http://instagram.com/eduramirezh">(@eduramirezh)</a>
+  </figcaption>
+</figure>
+
+<figure class="image"><img src="https://instagram.com/p/7LsmFTOgQ6/media/?size=m" alt="{{ include.description }}">
+  <figcaption>
+    Matías Schulze <a href="http://instagram.com/matschulze">(@matschulze)</a>
+  </figcaption>
+</figure>
+
+<figure class="image"><img src="https://instagram.com/p/7NXtwgC0Ap/media/?size=m" alt="{{ include.description }}">
+  <figcaption>
+    Matías Jiménez <a href="http://instagram.com/matiasjimmenez">(@matiasjimmenez)</a>
+  </figcaption>
+</figure>
+
+##Fotos
+
+{% for pic in site.data.epkpics %}
+[![Teatro Coca Cola](/{{pic.thumbnail}})](/{{pic.source}})
+{% endfor %}
+
 
 ##Canciones
 
@@ -37,13 +80,6 @@ La banda se formó a inicios de ...
   </div>
 </div>
 {% endfor %}
-
-##Fotos
-
-{% for pic in site.data.epkpics %}
-[![Teatro Coca Cola](/{{pic.thumbnail}})](/{{pic.source}})
-{% endfor %}
-
 
 ##Prensa
 
