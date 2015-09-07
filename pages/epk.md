@@ -39,7 +39,7 @@ La banda se formó a inicios de ...
 ##Fotos
 
 {% for pic in site.data.epkpics %}
-![Teatro Coca Cola](/{{pic.source}})
+[![Teatro Coca Cola](/{{pic.thumbnail}})](/{{pic.source}})
 {% endfor %}
 
 
