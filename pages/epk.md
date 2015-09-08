@@ -40,19 +40,19 @@ Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería,
   </figcaption>
 </figure>
 
-<figure class="image"><img src="https://instagram.com/p/7NwB34B7Hi/media/?size=m" alt="{{ include.description }}">
+<figure class="image"><img src="/images/epk/edu_epk.jpg" alt="{{ include.description }}">
   <figcaption>
     Eduardo Ramírez <a href="http://instagram.com/eduramirezh">(@eduramirezh)</a>
   </figcaption>
 </figure>
 
-<figure class="image"><img src="https://instagram.com/p/7LsmFTOgQ6/media/?size=m" alt="{{ include.description }}">
+<figure class="image"><img src="/images/epk/matias_epk.jpg" alt="{{ include.description }}">
   <figcaption>
     Matías Schulze <a href="http://instagram.com/matschulze">(@matschulze)</a>
   </figcaption>
 </figure>
 
-<figure class="image"><img src="https://instagram.com/p/7NXtwgC0Ap/media/?size=m" alt="{{ include.description }}">
+<figure class="image"><img src="/images/epk/matiasj_epk.jpg" alt="{{ include.description }}">
   <figcaption>
     Matías Jiménez <a href="http://instagram.com/matiasjimmenez">(@matiasjimmenez)</a>
   </figcaption>
