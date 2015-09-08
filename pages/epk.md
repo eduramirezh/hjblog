@@ -58,13 +58,6 @@ Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería,
   </figcaption>
 </figure>
 
-##Fotos
-
-{% for pic in site.data.epkpics %}
-[![Teatro Coca Cola](/{{pic.thumbnail}})](/{{pic.source}})
-{% endfor %}
-
-
 ##Canciones
 
 {% for song in site.data.songs %}
@@ -81,6 +74,12 @@ Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería,
 </div>
 {% endfor %}
 
+##Fotos
+
+{% for pic in site.data.epkpics %}
+[![Teatro Coca Cola](/{{pic.thumbnail}})](/{{pic.source}})
+{% endfor %}
+
 ##Prensa
 
 - [Bienvenidos al Hotel Julieta - Rata.cl](http://rata.cl/bienvenidos-al-hotel-julieta/)
@@ -95,7 +94,12 @@ Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería,
 
 ##Contacto
 
- |**Juan José Sanz**|
- |jjsanz@uc.cl|
- |+56 9 8124 9515|
-
+<center>
+  <b>Juan José Sanz</b>
+</center>
+<center>
+  <a href="mailto:jjsanz@uc.cl">jjsanz@uc.cl</a>
+</center>
+<center>
+  <a href="tel:+56981249515">+56 9 8124 9515</a>
+</center>
