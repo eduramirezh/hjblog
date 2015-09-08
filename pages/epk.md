@@ -25,6 +25,7 @@ Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería,
 
 ##Redes sociales
 
+ - [#hoteljulieta](https://instagram.com/explore/tags/hoteljulieta/)
  - [Instagram](http://instagram.com/HotelJulieta)
  - [Youtube](http://youtube.com/HotelJulieta)
  - [Facebook](http://fb.com/HotelJulieta)

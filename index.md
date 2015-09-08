@@ -7,7 +7,8 @@
 
 layout: frontpage
 title: "Hotel Julieta"
-redirect: /epk
+redirect_to:
+  - /epk
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:

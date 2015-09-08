@@ -9,7 +9,8 @@
 #
 # Title of your website
 title: "Hotel Julieta"
-
+gems:
+    - jekyll-redirect-from
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "Banda de rock chilena"
