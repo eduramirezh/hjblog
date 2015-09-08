@@ -21,6 +21,8 @@ Sus distintas disciplinas y visiones artísticas se complementan para dar origen
 
 Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería, se convierte en la pieza final del Hotel.
 
+Actualmente se encuentran trabajando en su primer disco LP con el productor Cristián Mendeville, y en Octubre llevarán a cabo una gira por distintas ciudades de Chile con fines promocionales.
+
 <iframe width="320" height="315" src="https://www.youtube.com/embed/Ko-6N7VrhLg" frameborder="0" allowfullscreen></iframe>
 
 ##Redes sociales
