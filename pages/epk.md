@@ -99,7 +99,7 @@ Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería,
   <b>Juan José Sanz</b>
 </center>
 <center>
-  <a href="mailto:jjsanz@uc.cl">jjsanz@uc.cl</a>
+  <a href="mailto:hoteljulieta@gmail.com">hoteljulieta@gmail.com</a>
 </center>
 <center>
   <a href="tel:+56981249515">+56 9 8124 9515</a>
