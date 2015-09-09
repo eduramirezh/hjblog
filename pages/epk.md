@@ -107,3 +107,9 @@ Actualmente se encuentran trabajando en su primer disco LP con el productor Cris
 <center>
   <a href="tel:+56981249515">+56 9 8124 9515</a>
 </center>
+
+
+###Ficha técnica
+
+[Descargar](/downloads/ficha_tecnica_hotel_julieta.pdf)
+
