@@ -7,6 +7,8 @@ header:
     image_fullwidth: "header_unsplash_12.jpg"
 ---
 
+<iframe width="320" height="315" src="https://www.youtube.com/embed/7D7pMN97PZQ" frameborder="0" allowfullscreen></iframe>
+
 Hotel Julieta es una banda chilena de rock-pop formada a finales de 2014.
 
 Su propuesta musical consiste en crear canciones directas y potentes, utilizando el escenario y su espectáculo como un instrumento más para transmitir emociones con su música.
@@ -23,7 +25,6 @@ Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería,
 
 Actualmente se encuentran trabajando en su primer disco LP con el productor Cristián Mendeville, y en Octubre llevarán a cabo una gira por distintas ciudades de Chile con fines promocionales.
 
-<iframe width="320" height="315" src="https://www.youtube.com/embed/Ko-6N7VrhLg" frameborder="0" allowfullscreen></iframe>
 
 ##Redes sociales
 
