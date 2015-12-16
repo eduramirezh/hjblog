@@ -41,7 +41,7 @@ Sus distintas disciplinas y visiones artísticas se complementan para dar origen
 
 Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería, se convierte en la pieza final del Hotel.
 
-Actualmente se encuentran trabajando en su primer disco LP con el productor Cristián Mendeville, y en Octubre llevarán a cabo una gira por distintas ciudades de Chile con fines promocionales.
+Actualmente se encuentran trabajando en su primer disco LP con el productor Cristián Mendeville, y durante Diciembre de 2015 realizarán el lanzamiento de su 4º single "Señal".
 
 
 ##Redes sociales
@@ -71,12 +71,6 @@ Actualmente se encuentran trabajando en su primer disco LP con el productor Cris
 <figure class="image"><img src="/images/epk/matias_epk.jpg" alt="{{ include.description }}">
   <figcaption>
     Matías Schulze <a href="http://instagram.com/matschulze">(@matschulze)</a>
-  </figcaption>
-</figure>
-
-<figure class="image"><img src="/images/epk/matiasj_epk.jpg" alt="{{ include.description }}">
-  <figcaption>
-    Matías Jiménez <a href="http://instagram.com/matiasjimmenez">(@matiasjimmenez)</a>
   </figcaption>
 </figure>
 
