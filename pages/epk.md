@@ -73,6 +73,21 @@ Festival Alameda (Talca), Casino de Talca, Ele bar, Bar central, Cine plaza. Tea
   </figcaption>
 </figure>
 
+## Videos
+
+### Sesión en vivo TVcentro:
+<div class='embed-container'>
+  <iframe src='http://www.youtube.com/embed/bcEDV88yrXs' frameborder='0' allowfullscreen></iframe>
+</div>
+Sesión en vivo dirigida por TVcentro, 5 canciones más entrevista.
+
+### Videoclip “Señal”
+<div class='embed-container'>
+  <iframe src='http://www.youtube.com/embed/at34nwELXxQ' frameborder='0' allowfullscreen></iframe>
+</div>
+Videoclip oficial de single “Señal”.
+
+
 ## Canciones
 
 {% for song in site.data.songs %}
@@ -97,9 +112,16 @@ Festival Alameda (Talca), Casino de Talca, Ele bar, Bar central, Cine plaza. Tea
 
 ## Prensa
 
+
 - [Bienvenidos al Hotel Julieta - Rata.cl](http://rata.cl/bienvenidos-al-hotel-julieta/)
-- [Hotel Julieta en teatro Coca-Cola City - Rata.cl](http://rata.cl/hotel-julieta-en-vivo-en-teatro-coca-cola-city/)
+- [Banda Hotel Julieta estrena videclip "Señal" - Parlante](http://www.parlante.cl/web/banda-hotel-julieta-estrena-videoclip-senal-centro-arte-alameda/)
+- [Lanzamiento de nuevo single de Hotel Julieta - Todos Juntos Radio](http://www.todosjuntosradio.cl/noticias/lanzamiento-de-nuevo-single-de-hotel-julieta/)
+- [Festival Alameda Talca - POTQ](http://www.potq.net/noticias/festival-alameda-talca/)
+- [Con buena música comienza el fin de semana en Talca - Diario El Centro](http://www.diarioelcentro.cl/cultura/con-buena-musica-comienza-el-fin-de-semana-en-talca)
 - [Las canciones más escuchadas en 9 ciudades de Chile según Spotify - Revista XY](http://www.revistaxy.com/entretencion/musica-entretencion/las-canciones-mas-escuchadas-en-9-ciudades-de-chile-segun-spotify/)
+- ["Señal", el nuevo sencillo de Hotel Julieta - SoloArtistasChilenos](http://www.soloartistaschilenos.cl/2015/12/senal-el-nuevo-sencillo-de-hotel-julieta.html)
+- [Matías Schulze hizo bailar a todo con Last Nite - 13.cl](http://www.13.cl/programas/the-voice/presentaciones/matias-schulze-hizo-bailar-todos-con-last-nite)
+- [Hotel Julieta en teatro Coca-Cola City - Rata.cl](http://rata.cl/hotel-julieta-en-vivo-en-teatro-coca-cola-city/)
 - [5 cosas que no sabías de 5 nuevos clasificados de The Voice - 13.cl](http://www.13.cl/programas/the-voice/noticias/5-cosas-que-no-sabias-de-5-nuevos-clasificados)
 - [Hotel Julieta + Juan Pablo Mira en Ele Bar - DIARIOdeANAFUNK](http://diariodeanafunk.cl/hotel-julieta-juan-pablo-mira-en-ele-bar-01-de-agosto)
 - [Maulinos se robaron la película en programa de talentos "The Voice" Chile - Diario El Centro](http://www.diarioelcentro.cl/?q=articulo-espectaculos&id=1207)
@@ -107,16 +129,17 @@ Festival Alameda (Talca), Casino de Talca, Ele bar, Bar central, Cine plaza. Tea
 - [Las 3 canciones más populares de Spotify en Talca](/images/epk/press/spotifytalca.png)
 - [Las 50 más virales de Chile en Spotify](/images/epk/press/50masvirales.jpg)
 
-## Contacto
+
+## BOOKING
 
 <center>
-  <b>Juan José Sanz</b>
+  <b>Leonardo Osorio</b>
 </center>
 <center>
   <a href="mailto:hoteljulieta@gmail.com">hoteljulieta@gmail.com</a>
 </center>
 <center>
-  <a href="tel:+56981249515">+56 9 8124 9515</a>
+  <a href="tel:+56981249515">+56 9 9819 2005</a>
 </center>
 
 
