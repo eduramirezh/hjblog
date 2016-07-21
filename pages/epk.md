@@ -27,24 +27,23 @@ header:
   <iframe src='http://www.youtube.com/embed/7D7pMN97PZQ' frameborder='0' allowfullscreen></iframe>
 </div>
 
-Hotel Julieta es una banda chilena de rock-pop formada a finales de 2014.
+Hotel Julieta es una banda chilena de rock-pop fundada por 2 músicos de Talca, con residencia en Santiago. Su propuesta musical tiene un fuerte énfasis en la presentación en vivo, cargada de una energía potente suscitando a la euforia.
 
-Su propuesta musical consiste en crear canciones directas y potentes, utilizando el escenario y su espectáculo como un instrumento más para transmitir emociones con su música.
+El proyecto comienza el año 2013, cuando Matías (Voz) y Eduardo (Bajo), se juntan a componer y desarrollar el proyecto, a lo que más tarde se suma Tomas Ledoux como guitarrista.
 
-Su enfoque artístico los ha llevado rápidamente a posicionarse dentro de las bandas más populares de Chile en Spotify. Su fama también se vió impulsada por la aparición de su vocalista en el programa de televisión "The Voice Chile".
+El primer EP de la banda, “Imágenes” fue publicado en Junio del 2015, volviéndose muy popular en Spotify, alcanzando las dos canciones más escuchadas en Talca y entrando con la canción “Imágenes” a las 50 canciones más virales de Chile.
 
-El proyecto comienza cuando Matías Schulze (estudiante de música) y Eduardo Ramírez (ingeniero civil), compañeros de colegio en Talca su ciudad natal, se juntan a componer y desarrollar un proyecto musical con una propuesta fuerte.
+Después del primer EP, siguen publicando material sonoro y audiovisual, acompañado de viajes a diferentes localidades dentro de Chile, como Valparaíso, Talca, Santiago, entre otros.
 
-A fines de 2014 conocen a Tomás Ledoux (guitarrista clásico), con quien surge una química instantánea para potenciar esta propuesta.
+Su fama también se vio impulsada por la aparición de su vocalista en el programa de televisión “The Voice Chile”, bajo el alero de Álvaro Lopez (ex Los Bunkers).
 
-Sus distintas disciplinas y visiones artísticas se complementan para dar origen a "Hotel Julieta". Este nombre representa el lugar imaginario donde sus ideas y visiones se comparten y se convierten en su música y su show.
+Actualmente se encuentran en la grabación de su álbum debut. El disco ha sido trabajado mayoritariamente en Estudios Triana, de la mano del productor Cristian Mendeville.
 
-Durante 2015 se integra Matías Jiménez quien, con su maestría en la batería, se convierte en la pieza final del Hotel.
+## Presentaciones
 
-Actualmente se encuentran trabajando en su primer disco LP con el productor Cristián Mendeville, y durante Diciembre de 2015 realizarán el lanzamiento de su 4º single "Señal".
+Festival Alameda (Talca), Casino de Talca, Ele bar, Bar central, Cine plaza. Teatro Coca-Cola City, Teatro Cariola, Centro Arte Alameda, salas SCD, Club Chocolate.
 
-
-##Redes sociales
+## Redes sociales
 
  - [#hoteljulieta](https://instagram.com/explore/tags/hoteljulieta/)
  - [Instagram](http://instagram.com/HotelJulieta)
@@ -53,7 +52,7 @@ Actualmente se encuentran trabajando en su primer disco LP con el productor Cris
  - [Twitter](http://twitter.com/HotelJulietaCL)
  - [Spotify](https://open.spotify.com/artist/4R6ApsFDCgq0nH0K5U9uj8)
 
-##Integrantes
+## Integrantes
 
 
 <figure class="image"><img src="/images/epk/tomas_epk.png" alt="{{ include.description }}">
@@ -74,7 +73,7 @@ Actualmente se encuentran trabajando en su primer disco LP con el productor Cris
   </figcaption>
 </figure>
 
-##Canciones
+## Canciones
 
 {% for song in site.data.songs %}
 <div class="row">
@@ -90,13 +89,13 @@ Actualmente se encuentran trabajando en su primer disco LP con el productor Cris
 </div>
 {% endfor %}
 
-##Fotos
+## Fotos
 
 {% for pic in site.data.epkpics %}
 [![Teatro Coca Cola](/{{pic.thumbnail}})](/{{pic.source}})
 {% endfor %}
 
-##Prensa
+## Prensa
 
 - [Bienvenidos al Hotel Julieta - Rata.cl](http://rata.cl/bienvenidos-al-hotel-julieta/)
 - [Hotel Julieta en teatro Coca-Cola City - Rata.cl](http://rata.cl/hotel-julieta-en-vivo-en-teatro-coca-cola-city/)
@@ -108,7 +107,7 @@ Actualmente se encuentran trabajando en su primer disco LP con el productor Cris
 - [Las 3 canciones más populares de Spotify en Talca](/images/epk/press/spotifytalca.png)
 - [Las 50 más virales de Chile en Spotify](/images/epk/press/50masvirales.jpg)
 
-##Contacto
+## Contacto
 
 <center>
   <b>Juan José Sanz</b>
@@ -121,7 +120,7 @@ Actualmente se encuentran trabajando en su primer disco LP con el productor Cris
 </center>
 
 
-###Ficha técnica
+### Ficha técnica
 
 [Descargar](/downloads/ficha_tecnica_hotel_julieta.pdf)
 
